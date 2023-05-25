@@ -4,6 +4,8 @@ hexagon.py (pending name change)
 VoltaWorks
 2023
 
+Developed on PyCharm using Python 3.9
+
 Display screen for eInk screen to be used on battery pack.
 - Shows the current battery charge level number and hexagon sides based on charge level.
 - Shows whether the battery pack is being charged (plugged in)
