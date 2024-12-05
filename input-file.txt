@@ -1,0 +1,18 @@
+55 -What is the CHARGE PERCENTAGE?
+n  -Is it CHARGING (y/n)?
+n  -Is AC connected (y/n)?
+y  -Is DC connected (y/n)?
+n  -Is USB-A connected (y/n)?
+y  -Is USB-C connected (y/n)?
+10 -What is the charging input value (W)?
+20 -What is the time to full (mins)?
+15 -What is the total output value (W)?
+25 -What is the time to empty (mins)?
+10 -What is DC value (V)?
+y  -Is the heat warning on (y/n)?
+n  -Is SETTINGS selection active (y/n)?
+1  -Which Settings option is selected (1. Begin Car Starter, 2. Update Software)?
+y  -Is CAR STARTER ACTIVE (y/n)?
+2  -What is the status of Car Starter (1. Active, 2. Ready)?
+n  -Is a SOFTWARE UPDATE active (y/n)?
+22 -What is the Software Updates percent of completion?
